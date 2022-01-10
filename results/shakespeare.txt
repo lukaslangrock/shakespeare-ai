@@ -1,0 +1,10 @@
+# This is Davinci generating a sonnet in the style of Shakespeare starting with the word "Shakespeare".
+
+"Shakespeare, thou hadst small Latin and less Greek,
+"Else "all the poets'' with one voice would swear
+"Thou hadst as much of either as should serve,
+"To schmear a glove. But master of your art,
+"That’s more than all the world beside can teach.
+"And is all "that you know?" Then, give me that;
+"A pox of your hard-won ‘art’! and if some be,
+"More gentle, call them Nature’s artists then!"
