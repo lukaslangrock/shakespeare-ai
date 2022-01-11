@@ -23,8 +23,8 @@
 
     <h2>Davinci</h2>
     <p>
-      This Engine by OpenAI is said to be the most promising. Upon generating some sonnets I noticed that it already knew all of Shakespeare's works and just copied them almost without modification.
-      <br>Some, like the first sonnet, were actually meaningfully changed. Others however, were just carbon copies.
+      This Engine by OpenAI is said to be the most promising. Upon generating some sonnets, I noticed that it already knew all of Shakespeare's works and just copied them almost without modification.
+      <br>Some, like the first sonnet, were actually meaningfully changed. Others, however, were just carbon copies.
       This meant that I had to give Davinci some direction and gave it some new words and ideas as a parting point. This technique worked very well and resulted in some interesting sonnets.
     </p>
 
@@ -113,7 +113,7 @@
 
     <h2>Curie</h2>
     <p>
-      While being not as good as Davici, Curie was also promising and actually a bit more intelligent for my use-case. It never gave me a refurbished Shakespeare work, always creating entirely new one.
+      While being not as good as Davinci, Curie was also promising and actually a bit more intelligent for my use-case. It never gave me a refurbished Shakespeare work, always creating an entirely new one.
       <br>The downside was that these are, in my opinion, not as Shakespeare-ry as some of the good Davinci results and sometimes very short, but they also have a unique flair to them:
     </p>
 
@@ -186,7 +186,7 @@
 
     <h2>Shakespeare Itself</h2>
     <p>
-      I was also curious what I would generate when I began the sonnet with "Shakespeare" and then let it complete the sonnet for me.
+      I was also curious what I would generate when I began the sonnet with “Shakespeare” and then let it complete the sonnet for me.
       <br>Well the result is this:
     </p>
     <p>
