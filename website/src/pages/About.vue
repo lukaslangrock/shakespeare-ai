@@ -20,7 +20,7 @@
         It is completely open-source and available on <a href="https://github.com/lukaslangrock/nigeria-history">GitHub</a>. Hosted on <a href="https://vercel.com/">Vercel</a>.
     </p>
 
-    <h3>We that you enjoy this creation! ❤</h3>
+    <h3>I hope that you enjoy this creation! ❤</h3>
 
     <BackToHome />
   </Layout>
