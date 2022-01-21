@@ -191,13 +191,13 @@
     </p>
     <p>
       "Shakespeare, thou hadst small Latin and less Greek,
-      <br>"Else "all the poets'' with one voice would swear
-      <br>"Thou hadst as much of either as should serve,
-      <br>"To schmear a glove. But master of your art,
-      <br>"That’s more than all the world beside can teach.
-      <br>"And is all "that you know?" Then, give me that;
-      <br>"A pox of your hard-won ‘art’! and if some be,
-      <br>"More gentle, call them Nature’s artists then!"
+      <br>Else "all the poets'' with one voice would swear
+      <br>Thou hadst as much of either as should serve,
+      <br>To schmear a glove. But master of your art,
+      <br>That’s more than all the world beside can teach.
+      <br>And is all "that you know?" Then, give me that;
+      <br>A pox of your hard-won ‘art’! and if some be,
+      <br>More gentle, call them Nature’s artists then!"
     </p>
 
   </Layout>
