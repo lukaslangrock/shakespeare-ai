@@ -191,7 +191,7 @@
     </p>
     <p>
       "Shakespeare, thou hadst small Latin and less Greek,
-      <br>Else "all the poets'' with one voice would swear
+      <br>Else "all the poets" with one voice would swear
       <br>Thou hadst as much of either as should serve,
       <br>To schmear a glove. But master of your art,
       <br>That’s more than all the world beside can teach.
